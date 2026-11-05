@@ -21,7 +21,7 @@ React, TypeScript, and the occasional shader.
 
 - Building websites on headless CMSs, mostly **Strapi**
 - Based in Portugal
-- Ask me about **React**, **JavaScript** and **TypeScript**
+- Ask me about **React**, **Next.js**, **JavaScript**, **TypeScript** and **Strapi**
 
 <br>
 
