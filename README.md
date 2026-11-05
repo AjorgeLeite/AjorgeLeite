@@ -1,22 +1,58 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQElWE0ptE9QzA/profile-displaybackgroundimage-shrink_350_1400/0/1699638973670?e=1714608000&v=beta&t=6_jVf-ni3dYb8XyoQA-Kr4E55F8nn39bzMzhLaire64)
-<h1 align="center">Hi 👋, I'm António</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/Y4Q2AI6.png">
+<img src="assets/banner.svg" alt="António Leite, frontend developer from Portugal" width="100%">
 
+<br>
 
+**I build fast, clear interfaces that feel a little alive.**
+<br>
+React, TypeScript, and the occasional shader.
 
+<br>
 
-- 💬 Ask me about **React, Javascript, Typescript**
+<a href="https://linkedin.com/in/ant%C3%B3nio-leite-a067171b8"><img src="https://img.shields.io/badge/LinkedIn-Ant%C3%B3nio_Leite-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:a.jorge@live.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-- 📫 How to reach me **a.jorge@live.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antónio-leite-a067171b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antónio-leite-a067171b8" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Now
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajorgeleite&show_icons=true&locale=en&layout=compact" alt="ajorgeleite" /></p>
+**Home base** &nbsp; Portugal<br>
+**Day to day** &nbsp; Building websites on headless CMSs, Strapi most of the time<br>
+**On the side** &nbsp; Experimenting with whatever's new and interesting<br>
+**Ask me about** &nbsp; React, Next.js, JavaScript, TypeScript and Strapi
+
+<br>
+
+## Stack
+
+<table>
+  <tr>
+    <td width="150"><sub><b>LANGUAGES</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML, CSS, JavaScript, TypeScript"></td>
+  </tr>
+  <tr>
+    <td><sub><b>FRONTEND</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,nodejs&theme=dark" alt="React, Next.js, Redux, Tailwind CSS, Three.js, Node.js"></td>
+  </tr>
+  <tr>
+    <td><sub><b>CMS</b></sub></td>
+    <td><img src="assets/strapi.svg" width="48" height="48" alt="Strapi"></td>
+  </tr>
+  <tr>
+    <td><sub><b>TOOLS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,jest,docker,vercel&theme=dark" alt="Git, GitHub, Jest, Docker, Vercel"></td>
+  </tr>
+  <tr>
+    <td><sub><b>DESIGN</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Figma, Illustrator, Photoshop"></td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+<sub>Most of my work lives in private repositories.</sub>
+</div>
