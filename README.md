@@ -19,7 +19,7 @@ React, TypeScript, and the occasional shader.
 
 ## Now
 
-- Building an interactive 3D observatory portfolio with Next.js, React Three Fiber and GLSL
+- Building websites on headless CMSs, mostly **Strapi**
 - Based in Portugal
 - Ask me about **React**, **JavaScript** and **TypeScript**
 
@@ -35,6 +35,10 @@ React, TypeScript, and the occasional shader.
   <tr>
     <td><sub><b>FRONTEND</b></sub></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,nodejs&theme=dark" alt="React, Next.js, Redux, Tailwind CSS, Three.js, Node.js"></td>
+  </tr>
+  <tr>
+    <td><sub><b>CMS</b></sub></td>
+    <td><img src="assets/strapi.svg" width="48" height="48" alt="Strapi"></td>
   </tr>
   <tr>
     <td><sub><b>TOOLS</b></sub></td>
